@@ -15,3 +15,5 @@ Users can add or remove items, view their current order, and calculate the total
 - Arrays
 - Loops and conditionals
 - Scanner for user input
+
+#Java #ConsoleApp #BeginnerProject #Array #Loops
